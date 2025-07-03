@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Saberzz",
+            "link": "https://youtu.be/n9EhC4EhyCE?si=tJaD5-PuG0xXh900",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
