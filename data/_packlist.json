@@ -23,4 +23,15 @@
         ],
         "colour": "radial-gradient(circle,rgba(255, 247, 0, 1) 100%, rgba(255, 255, 255, 1) 100%)"
     }
+    {
+        "name": "OG Pack 2",
+        "levels": [
+            "jasonskindergarten",
+            "idioticdecisions",
+            "silentclubleap",
+            "crimsoncaverns",
+            "flagcirclesrebirth"
+        ],
+        "colour": "radial-gradient(circle,rgba(255, 247, 0, 1) 100%, rgba(255, 255, 255, 1) 100%)"
+    }
 ]
