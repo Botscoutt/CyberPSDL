@@ -2,6 +2,9 @@
     {
         "name": "OG Pack 1",
         "levels": [
+            "distancecontraption",
+            "op31",
+            "sensory",
             "happiness",
             "superscoutt",
             "goofyahh"
@@ -11,9 +14,12 @@
         {
         "name": "OG Pack 2",
         "levels": [
-            "distancecontraption",
-            "op31",
-            "sensory"
+            "randomcavelevel",
+            "cavedin",
+            "theoryofhitchpp",
+            "thefurious",
+            "ballisticfunk",
+            "ghostcircles"
         ],
         "colour": "radial-gradient(circle,rgba(255, 247, 0, 1) 100%, rgba(255, 255, 255, 1) 100%)"
     }
