@@ -8,5 +8,11 @@
     "percentToQualify": 56,
     "password": "Not Copyable",
     "records": [
+             {
+            "user": "Botscoutt",
+            "link": "https://www.youtube.com/watch?v=u7gQrm2CAe4",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
